@@ -1,0 +1,11 @@
+## zxcdfserrtygcvbcvbfghtuyuykjmn,m,nlkoioi
+blocks:
+  ziemniak: # nazwa bossa
+    location: "world,0,100,0" # Lokalizacja ziemniaka
+    teleport_location: "world,10,100,10" # Lokalizacja teleportowania, po nakliknieciu ziemniaka
+    boss_spawn_location: "world,10,100,10" # Lokalizacja spawnu bossa
+    item: # Item ziemniaka
+      type: DIRT
+      name: "&6Przepustka do ziemniaka"
+      lore:
+        - "&6Kliknij tym itemem na blok ziemniaka, aby przeteleportowac sie na event."

@@ -1,0 +1,10 @@
+name: TH-ExtendedBosses
+version: ${project.version}
+main: pl.tryhardujemy.extendedbosses.ExtendedBossesPlugin
+authors: [Tryhadrujemyprodev]
+description: Extended bosse plugin :D
+depend:
+  - Boss
+commands:
+  przepustka:
+  bossblock:
